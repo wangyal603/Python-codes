@@ -6,7 +6,7 @@ import time
 #Introduction
 print("Welcome To Zero_Crypter\n")
 time.sleep(1)
-print("This Program Is Created By Programmer_rc\n")
+print("This Program Is Created By Programmer_wtb\n")
 time.sleep(1)
 print("Convert Your Secret Messages Into Numbers\n")
 time.sleep(1)
